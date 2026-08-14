@@ -66,6 +66,8 @@
 //     }
 // };
 
+// Time Complexity O(K*log(min(K, N)))
+// Space Complexity O(min(K, N))
 class Solution {
 public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
