@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Array
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
