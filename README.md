@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Quickselect
 |  |
 | ------- |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+## Binary Search
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
