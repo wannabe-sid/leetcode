@@ -21,7 +21,7 @@
 // };
 
 // Approach 2 : Using MinHeap
-// O(nlogn + klogn) time and O(k) space
+// O(nlogn + klogn) time and O(k) space  
 class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
