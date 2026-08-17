@@ -7,8 +7,11 @@ public:
         int left = 0;  // for children (g)
         int right = 0; // for cookies (s)
         while(left < g.size() && right < s.size()){
-            if(s[right] >= g[left]) left++;
-            right++;
+            if(s[right] >= g[left]){
+                left++;
+                right++;
+            }
+            else right++;
         }
         return left;
     }
