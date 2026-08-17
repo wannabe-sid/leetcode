@@ -12,9 +12,7 @@ public:
                 left++;
                 right++;
             }
-            else if(s[right] < g[left]){
-                right++;
-            }
+            else right++;
         }
         return count;
     }
