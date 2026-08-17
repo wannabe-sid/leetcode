@@ -1,3 +1,4 @@
+// O(n) time and O(1) space
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
