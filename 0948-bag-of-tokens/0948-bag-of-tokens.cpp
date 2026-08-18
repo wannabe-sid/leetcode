@@ -1,4 +1,5 @@
-class Solution {
+// O(n) time and O(1) space
+class Solution { 
 public:
     int bagOfTokensScore(vector<int>& tokens, int power) {
         int n = tokens.size();
@@ -18,7 +19,6 @@ public:
                 power += tokens[j];
                 score--;
                 j--;
-                maxScore = max(maxScore, score);
             }
             else return maxScore;
         }   
