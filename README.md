@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wannabe-sid/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/wannabe-sid/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/wannabe-sid/leetcode/tree/master/0860-lemonade-change) |
@@ -94,4 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/wannabe-sid/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
