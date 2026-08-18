@@ -43,19 +43,20 @@
 // };
 
 // Optimal Approach : O(n) time and O(1) space
-// Greedy Approach : Using Slope Concept
+// Greedy Approach : Using Slope Concept (Peak and Valley)
 class Solution {
 public:
     int candy(vector<int>& ratings) {
         int n = ratings.size();
-        int candies = n;
+        int candies = 1;
         int i = 1;
         while (i < n) {
             if (ratings[i] == ratings[i - 1]) {
+                candies++;
                 i++;
                 continue;
             }
-            int peak = 0;
+            int peak = 1;
             while (i < n && ratings[i] > ratings[i - 1]) {
                 peak++;
                 candies += peak;
@@ -67,7 +68,7 @@ public:
                 candies += valley;
                 i++;
             }
-            candies -= min(peak, valley);
+            if(valley >= peak) candies += (valley - peak + 1);
         }
         return candies;
     }
