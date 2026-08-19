@@ -1,3 +1,4 @@
+// O(n) time and O(1) space
 class Solution {
 public:
     string breakPalindrome(string palindrome) {
