@@ -1,3 +1,4 @@
+// O(log(target)) time and O(log(target)) space
 class Solution {
 public:
     int brokenCalc(int startValue, int target) {
