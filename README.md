@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/wannabe-sid/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/wannabe-sid/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/wannabe-sid/leetcode/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
