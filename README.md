@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/wannabe-sid/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Quickselect
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Counting
 |  |
 | ------- |
