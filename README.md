@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/wannabe-sid/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/wannabe-sid/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
