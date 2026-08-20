@@ -1,3 +1,4 @@
+// O(2n + nlogn) time and O(n) space
 class Solution {
 public:
     int maximumBags(vector<int>& capacity, vector<int>& rocks, int additionalRocks) {
@@ -9,16 +10,11 @@ public:
         sort(requiredRocks.begin(), requiredRocks.end());
         int bags = 0;
         for(int i=0; i<n; i++){
-            if(requiredRocks[i] == 0) bags++;
-            else{
-                if(additionalRocks >= requiredRocks[i]){
-                    additionalRocks -= requiredRocks[i];
-                    bags++;
-                }
-                else{
-                    break;
-                }
+            if(additionalRocks >= requiredRocks[i]){
+                additionalRocks -= requiredRocks[i];
+                bags++;
             }
+            else break;
         }
         return bags;
     }
