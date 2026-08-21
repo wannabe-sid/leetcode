@@ -76,24 +76,61 @@
 // };
 
 //Approach-3 (Using 2 Queues)
+// class Solution {
+// public:
+//     string predictPartyVictory(string senate) {    
+//         int n = senate.length();  
+//         queue<int> queR;
+//         queue<int> queD;
+//         for(int i=0; i<n; i++){
+//             if(senate[i] == 'R') queR.push(i);
+//             else queD.push(i);
+//         }
+//         while(!queR.empty() && !queD.empty()) {
+//             int R_idx = queR.front(); 
+//             queR.pop();
+//             int D_idx = queD.front(); 
+//             queD.pop();
+//             if(R_idx < D_idx) queR.push(R_idx + n);
+//             else queD.push(D_idx + n);
+//         }
+//         return queR.empty() ? "Dire" : "Radiant";
+//     }
+// };
+
+// Approach 4 : Using Single Queue
 class Solution {
 public:
-    string predictPartyVictory(string senate) {    
-        int n = senate.length();  
-        queue<int> queR;
-        queue<int> queD;
-        for(int i=0; i<n; i++){
-            if(senate[i] == 'R') queR.push(i);
-            else queD.push(i);
+    string predictPartyVictory(string senate) {
+        queue<char> q;
+        int countR = 0, countD = 0;
+        int banR = 0, banD = 0;
+        for (char c : senate) {
+            q.push(c);
+            if (c == 'R') countR++;
+            else countD++;
         }
-        while(!queR.empty() && !queD.empty()) {
-            int R_idx = queR.front(); 
-            queR.pop();
-            int D_idx = queD.front(); 
-            queD.pop();
-            if(R_idx < D_idx) queR.push(R_idx + n);
-            else queD.push(D_idx + n);
+        while (countR > 0 && countD > 0) {
+            char curr = q.front();
+            q.pop();
+            if (curr == 'R') {
+                if (banR > 0) {
+                    banR--;     
+                    countR--;   
+                } else {
+                    banD++;      
+                    q.push(curr);
+                }
+            } else { 
+                if (banD > 0) {
+                    banD--;      
+                    countD--;   
+                } else {
+                    banR++;    
+                    q.push(curr);
+                }
+            }
         }
-        return queR.empty() ? "Dire" : "Radiant";
+        return countR > 0 ? "Radiant" : "Dire";
     }
 };
