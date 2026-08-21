@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/wannabe-sid/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/wannabe-sid/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/wannabe-sid/leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Counting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0991-broken-calculator](https://github.com/wannabe-sid/leetcode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/wannabe-sid/leetcode/tree/master/1323-maximum-69-number) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Counting Sort
 |  |
 | ------- |
