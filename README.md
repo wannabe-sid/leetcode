@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/wannabe-sid/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wannabe-sid/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/wannabe-sid/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/wannabe-sid/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/wannabe-sid/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
