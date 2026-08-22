@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0991-broken-calculator](https://github.com/wannabe-sid/leetcode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/wannabe-sid/leetcode/tree/master/1323-maximum-69-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/wannabe-sid/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting Sort
 |  |
 | ------- |
