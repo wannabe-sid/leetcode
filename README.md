@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/wannabe-sid/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/wannabe-sid/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0991-broken-calculator](https://github.com/wannabe-sid/leetcode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/wannabe-sid/leetcode/tree/master/1323-maximum-69-number) |
+| [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/wannabe-sid/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting Sort
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/wannabe-sid/leetcode/tree/master/0649-dota2-senate) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
