@@ -11,7 +11,7 @@
  */
 
 // Recursive
-// O(n^2) time and O(n) space
+// O(n) time and O(n) space
 // class Solution {
 // public:
 //     vector<int> preorderTraversal(TreeNode* root) {
