@@ -28,25 +28,48 @@
 
 // Iterative
 // O(n) time and O(n) space
+// class Solution {
+// public:
+//     vector<int> inorderTraversal(TreeNode* root) {
+//         vector<int> result;
+//         stack<TreeNode*> st;
+//         TreeNode* curr = root;
+//         while (curr != nullptr || !st.empty()) {
+//             // Reach the leftmost node of the current subtree
+//             while (curr != nullptr) {
+//                 st.push(curr);
+//                 curr = curr->left;
+//             }
+//             // Current is null here, pop from stack
+//             curr = st.top();
+//             st.pop();
+//             // Visit the node
+//             result.push_back(curr->val);
+//             // Move to the right subtree
+//             curr = curr->right;
+//         }
+//         return result;
+//     }
+// };
+
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
         stack<TreeNode*> st;
         TreeNode* curr = root;
-        while (curr != nullptr || !st.empty()) {
-            // Reach the leftmost node of the current subtree
-            while (curr != nullptr) {
+        while(true){
+            if(curr != nullptr){
                 st.push(curr);
-                curr = curr->left;
+                curr = curr -> left;
             }
-            // Current is null here, pop from stack
-            curr = st.top();
-            st.pop();
-            // Visit the node
-            result.push_back(curr->val);
-            // Move to the right subtree
-            curr = curr->right;
+            else{
+                if(st.empty()) break;
+                curr = st.top();
+                st.pop();
+                result.push_back(curr -> val);
+                curr = curr -> right;
+            }
         }
         return result;
     }
