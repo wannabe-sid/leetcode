@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/wannabe-sid/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/wannabe-sid/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/wannabe-sid/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/wannabe-sid/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
