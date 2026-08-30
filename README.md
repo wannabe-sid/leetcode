@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/wannabe-sid/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2974-minimum-number-game](https://github.com/wannabe-sid/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/wannabe-sid/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [2974-minimum-number-game](https://github.com/wannabe-sid/leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/wannabe-sid/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/wannabe-sid/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/wannabe-sid/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2974-minimum-number-game](https://github.com/wannabe-sid/leetcode/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/wannabe-sid/leetcode/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/wannabe-sid/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Queue
 |  |
