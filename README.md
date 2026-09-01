@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/wannabe-sid/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/wannabe-sid/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/wannabe-sid/leetcode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/wannabe-sid/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/wannabe-sid/leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/wannabe-sid/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/wannabe-sid/leetcode/tree/master/0258-add-digits) |
 | [0991-broken-calculator](https://github.com/wannabe-sid/leetcode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/wannabe-sid/leetcode/tree/master/1323-maximum-69-number) |
