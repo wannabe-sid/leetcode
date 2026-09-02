@@ -11,7 +11,7 @@
 // O(n) time and O(n) space
 class Solution {
 public:
-    void markParents(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parentTrack, TreeNode* target){
+    void markParents(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parentTrack){
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
@@ -29,7 +29,7 @@ public:
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         unordered_map<TreeNode*, TreeNode*> parentTrack;
-        markParents(root, parentTrack, target);
+        markParents(root, parentTrack);
         unordered_map<TreeNode*, bool> visited;
         queue<TreeNode*> q;
         q.push(target);
