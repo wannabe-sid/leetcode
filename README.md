@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2405-optimal-partition-of-string](https://github.com/wannabe-sid/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/wannabe-sid/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/wannabe-sid/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
