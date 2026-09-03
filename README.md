@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/wannabe-sid/leetcode/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/wannabe-sid/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/wannabe-sid/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/wannabe-sid/leetcode/tree/master/0066-plus-one) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/wannabe-sid/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/wannabe-sid/leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
