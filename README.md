@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/wannabe-sid/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/wannabe-sid/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/wannabe-sid/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/wannabe-sid/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/wannabe-sid/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/wannabe-sid/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wannabe-sid/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/wannabe-sid/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
