@@ -1,5 +1,5 @@
 // Approach 1 : Using BFS
-// O(nm) time and O(min(n, m)) space
+// O(n*m) time and O(min(n, m)) space
 class Solution {
 public:
     void bfs(int startRow, int startCol, vector<vector<int>>& visited, const vector<vector<char>>& grid) {
@@ -45,7 +45,7 @@ public:
 
 
 // Approach 2 : Using DFS
-// O(nm) time and O(nm) space
+// O(n*m) time and O(n*m) space
 // class Solution {
 // private:
 //     void dfs(vector<vector<char>>& grid, int r, int c, int m, int n) {
