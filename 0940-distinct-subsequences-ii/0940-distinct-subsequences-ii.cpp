@@ -31,10 +31,10 @@ public:
         int total = 0;
         int dp[26] = {0};
         for(char& c : s){
-            c = c - 'a';
-            int add = (total - dp[c] + MOD) % MOD;
-            dp[c] = 1 + total;
-            total = (dp[c] + add) % MOD;
+            int idx = c - 'a';
+            int newSub = (total + 1 - dp[idx] + MOD) % MOD;
+            total = (total + newSub) % MOD;
+            dp[idx] = (dp[idx] + newSub) % MOD;
         }
         return total;
     }
