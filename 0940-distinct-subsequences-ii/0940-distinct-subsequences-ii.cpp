@@ -28,21 +28,14 @@ class Solution {
 public:
     int distinctSubseqII(string s) {
         long long MOD = 1e9 + 7;
-        // lastCount[i] stores the new distinct subsequences added 
-        // the last time character ('a' + i) was processed.
-        vector<long long> lastCount(26, 0);
-        // current_distinct tracks the total number of non-empty distinct subsequences so far
-        long long current_distinct = 0;
-        for (char c : s) {
-            int idx = c - 'a';
-            // New subsequences created by appending 'c':
-            // 1 (character 'c' by itself) + all existing subsequences with 'c' appended
-            long long new_added = (current_distinct + 1) % MOD;
-            // Update total: add new additions, subtract duplicates (what this char added previously)
-            current_distinct = (current_distinct + new_added - lastCount[idx] + MOD) % MOD;
-            // Store what this char added at this step
-            lastCount[idx] = new_added;
+        int total = 0;
+        int dp[26];
+        for(char& c : s){
+            c = c - 'a';
+            int add = (total - dp[c] + MOD) % MOD;
+            dp[c] = 1 + total;
+            total = (dp[c] + add) % MOD;
         }
-        return current_distinct;
+        return total;
     }
 };
