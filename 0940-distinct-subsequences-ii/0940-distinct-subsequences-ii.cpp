@@ -1,3 +1,4 @@
+// BruteForce
 // class Solution {
 // public:
 //     void solve(int idx, string& current, string& s, int n, unordered_set<string>& result) {
@@ -22,6 +23,7 @@
 //     }
 // };
 
+// Optimal
 class Solution {
 public:
     int distinctSubseqII(string s) {
