@@ -29,7 +29,7 @@ public:
     int distinctSubseqII(string s) {
         long long MOD = 1e9 + 7;
         int total = 0;
-        int dp[26];
+        int dp[26] = {0};
         for(char& c : s){
             c = c - 'a';
             int add = (total - dp[c] + MOD) % MOD;
