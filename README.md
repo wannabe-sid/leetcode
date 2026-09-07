@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0649-dota2-senate](https://github.com/wannabe-sid/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/wannabe-sid/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1328-break-a-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0940-distinct-subsequences-ii](https://github.com/wannabe-sid/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/wannabe-sid/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
