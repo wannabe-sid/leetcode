@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wannabe-sid/leetcode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/wannabe-sid/leetcode/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/wannabe-sid/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/wannabe-sid/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/wannabe-sid/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/wannabe-sid/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/wannabe-sid/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wannabe-sid/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/wannabe-sid/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/wannabe-sid/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/wannabe-sid/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
