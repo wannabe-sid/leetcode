@@ -19,7 +19,6 @@ public:
             int r = it.first.first;
             int c = it.first.second;
             int dist = it.second;
-            distance[r][c] = dist;
             for(int i=0; i<4; i++){
                 int nr = r + dr[i];
                 int nc = c + dc[i];
