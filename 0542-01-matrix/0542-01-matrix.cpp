@@ -10,7 +10,6 @@ public:
                 if(mat[i][j] == 0){
                     q.push({{i, j}, 0});
                     visited[i][j] = 1;
-                    distance[i][j] = 0;
                 }
             }
         }
