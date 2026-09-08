@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/wannabe-sid/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/wannabe-sid/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/wannabe-sid/leetcode/tree/master/0994-rotting-oranges) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/wannabe-sid/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/wannabe-sid/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/wannabe-sid/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/wannabe-sid/leetcode/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/wannabe-sid/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -403,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/wannabe-sid/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/wannabe-sid/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/wannabe-sid/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
