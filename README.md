@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/wannabe-sid/leetcode/tree/master/1927-sum-game) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/wannabe-sid/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/wannabe-sid/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/wannabe-sid/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/wannabe-sid/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting Sort
 |  |
