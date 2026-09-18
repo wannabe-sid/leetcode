@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/wannabe-sid/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/wannabe-sid/leetcode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/wannabe-sid/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/wannabe-sid/leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/wannabe-sid/leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/wannabe-sid/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/wannabe-sid/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/wannabe-sid/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/wannabe-sid/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/wannabe-sid/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
@@ -467,5 +471,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/wannabe-sid/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
