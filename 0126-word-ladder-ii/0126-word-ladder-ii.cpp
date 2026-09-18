@@ -82,7 +82,7 @@ public:
             string word = q.front();
             int steps = mpp[word];
             q.pop();
-            
+            if(word == endWord) break;
             for(int i=0; i<size; i++){
                 char original = word[i];
                 for(char ch='a'; ch<='z'; ch++){
