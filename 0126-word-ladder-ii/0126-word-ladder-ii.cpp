@@ -86,6 +86,7 @@ public:
             for(int i=0; i<size; i++){
                 char original = word[i];
                 for(char ch='a'; ch<='z'; ch++){
+                    if(ch == original) continue;
                     word[i] = ch;
                     if(st.find(word) != st.end()){
                         q.push(word);
