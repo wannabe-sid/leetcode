@@ -17,7 +17,6 @@ public:
             int col = pq.top().second.second;
             pq.pop();
             if(row == n - 1 && col == m - 1) return effort;
-            if(effort > effortGrid[row][col]) continue;
             for(int i=0; i<4; i++){
                 int nrow = row + drow[i];
                 int ncol = col + dcol[i];
