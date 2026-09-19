@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/wannabe-sid/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1631-path-with-minimum-effort](https://github.com/wannabe-sid/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2974-minimum-number-game](https://github.com/wannabe-sid/leetcode/tree/master/2974-minimum-number-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/wannabe-sid/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/wannabe-sid/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/wannabe-sid/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/wannabe-sid/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/wannabe-sid/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/wannabe-sid/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/wannabe-sid/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/wannabe-sid/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/wannabe-sid/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/wannabe-sid/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/wannabe-sid/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/wannabe-sid/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -487,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/wannabe-sid/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
