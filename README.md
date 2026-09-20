@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/wannabe-sid/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/wannabe-sid/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/wannabe-sid/leetcode/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/wannabe-sid/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/wannabe-sid/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/wannabe-sid/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
