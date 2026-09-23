@@ -1,7 +1,7 @@
 // O(V+E) time and O(V) space
 class DisjointSet{
-    vector<int> rank, size, parent;
 public:
+    vector<int> rank, size, parent;
     DisjointSet(int n){
         rank.resize(n+1, 0);
         size.resize(n+1, 1);
@@ -40,7 +40,7 @@ public:
             else ds.unionBySize(u, v);
         }
         for(int i=0; i<n; i++){
-            if(ds.findParent(i) == i) ans++;
+            if(ds.parent[i] == i) ans++;
         }
         if(extra >= ans - 1) return ans - 1;
         return -1;
