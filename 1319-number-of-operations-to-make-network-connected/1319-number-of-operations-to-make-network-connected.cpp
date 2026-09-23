@@ -14,20 +14,6 @@ public:
         if(parent[node] == node) return node;
         return parent[node] = findParent(parent[node]);
     }
-    void unionByRank(int u, int v){
-        int ultParentU = findParent(u);
-        int ultParentV = findParent(v);
-        if(rank[ultParentU] < rank[ultParentV]){
-            parent[ultParentU] = ultParentV;
-        }
-        else if(rank[ultParentV] < rank[ultParentU]){
-            parent[ultParentV] = ultParentU;
-        }
-        else{
-            parent[ultParentV] = ultParentU;
-            rank[ultParentU]++;
-        }
-    }
     void unionBySize(int u, int v){
         int ultParentU = findParent(u);
         int ultParentV = findParent(v);
