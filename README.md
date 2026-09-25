@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/wannabe-sid/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/wannabe-sid/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/wannabe-sid/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/wannabe-sid/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/wannabe-sid/leetcode/tree/master/0258-add-digits) |
 | [0991-broken-calculator](https://github.com/wannabe-sid/leetcode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/wannabe-sid/leetcode/tree/master/1323-maximum-69-number) |
@@ -556,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/wannabe-sid/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/wannabe-sid/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
