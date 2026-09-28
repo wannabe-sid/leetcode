@@ -56,7 +56,7 @@ public:
         for(int i=0; i<n; i++){
             vector<int> currRow(m, 0);
             for(int j=0; j<m; j++){
-                if(obstacleGrid[i][j] == 1) prevRow[j] = 0;
+                if(obstacleGrid[i][j] == 1) currRow[j] = 0;
                 else if(i == 0 && j == 0) currRow[j] = 1;
                 else{
                     int left = 0;
