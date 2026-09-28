@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/wannabe-sid/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/wannabe-sid/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/wannabe-sid/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/wannabe-sid/leetcode/tree/master/0198-house-robber) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/wannabe-sid/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/wannabe-sid/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/wannabe-sid/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/wannabe-sid/leetcode/tree/master/0258-add-digits) |
@@ -566,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/wannabe-sid/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/wannabe-sid/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
