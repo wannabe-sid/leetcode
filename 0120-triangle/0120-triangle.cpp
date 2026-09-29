@@ -31,10 +31,8 @@ public:
             for(int j=i; j>=0; j--){
                 if(j == n-1) continue;
                 else{
-                    int down = INT_MAX;
-                    int diagonal = INT_MAX;
-                    if(i < n-1) down = triangle[i][j] + dp[i+1][j];
-                    if(i < n-1 && j < n-1) diagonal = triangle[i][j] + dp[i+1][j+1];
+                    int down = triangle[i][j] + dp[i+1][j];
+                    int diagonal = triangle[i][j] + dp[i+1][j+1];
                     dp[i][j] = min(down, diagonal);
                 }
             }
