@@ -26,42 +26,65 @@
 
 // Recursion -> Tabulation (Bottom Up)
 // O(n*m) time and O(n*m) space and O(1) stack space
+// class Solution {
+// public:
+//     int minFallingPathSum(vector<vector<int>>& matrix) {
+//         int n = matrix.size();
+//         int m = matrix[0].size();
+//         vector<vector<int>> dp(n, vector<int>(m, 0));
+//         for(int j=0; j<m; j++){
+//             dp[0][j] = matrix[0][j];
+//         }
+//         for(int i=0; i<n; i++){
+//             for(int j=0; j<m; j++){
+//                 if(i == 0) continue;
+//                 else{
+//                     int up = 1e9;
+//                     int leftDia = 1e9;
+//                     int rightDia = 1e9;
+//                     if(i > 0) up = dp[i-1][j];
+//                     if(i > 0 && j > 0) leftDia = dp[i-1][j-1];
+//                     if(i > 0 && j < m-1) rightDia = dp[i-1][j+1];
+//                     dp[i][j] = matrix[i][j] + min(up, min(leftDia, rightDia));
+//                 }
+//             }
+//         }
+//         int pathSum = 1e9;
+//         for(int j=0; j<m; j++){
+//             pathSum = min(pathSum, dp[n-1][j]);
+//         }
+//         return pathSum;
+//     }
+// };
+
+// Recursion -> Space Optimization
+// O(n*m) time and O(2m) space and O(1) stack space
 class Solution {
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>> dp(n, vector<int>(m, 0));
+        vector<int> prevRow(m, 0);
         for(int j=0; j<m; j++){
-            dp[0][j] = matrix[0][j];
+            prevRow[j] = matrix[0][j]; 
         }
-        for(int i=0; i<n; i++){
+        for(int i=1; i<n; i++){
+            vector<int> currRow(m, 0);
             for(int j=0; j<m; j++){
-                if(i == 0) continue;
-                else{
                     int up = 1e9;
                     int leftDia = 1e9;
                     int rightDia = 1e9;
-                    if(i > 0) up = dp[i-1][j];
-                    if(i > 0 && j > 0) leftDia = dp[i-1][j-1];
-                    if(i > 0 && j < m-1) rightDia = dp[i-1][j+1];
-                    dp[i][j] = matrix[i][j] + min(up, min(leftDia, rightDia));
-                }
+                    up = prevRow[j];
+                    if(j > 0) leftDia = prevRow[j-1];
+                    if(j < m-1) rightDia = prevRow[j+1];
+                    currRow[j] = matrix[i][j] + min(up, min(leftDia, rightDia));
             }
+            prevRow = currRow;
         }
         int pathSum = 1e9;
         for(int j=0; j<m; j++){
-            pathSum = min(pathSum, dp[n-1][j]);
+            pathSum = min(pathSum, prevRow[j]);
         }
         return pathSum;
     }
 };
-
-// Recursion -> Space Optimization
-// O() time and O() space and O() stack space
-// class Solution {
-// public:
-//     int minFallingPathSum(vector<vector<int>>& matrix) {
-        
-//     }
-// };
