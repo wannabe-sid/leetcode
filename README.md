@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/wannabe-sid/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0416-partition-equal-subset-sum](https://github.com/wannabe-sid/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wannabe-sid/leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/wannabe-sid/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/wannabe-sid/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/wannabe-sid/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wannabe-sid/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/wannabe-sid/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/wannabe-sid/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -586,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/wannabe-sid/leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/wannabe-sid/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/wannabe-sid/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
