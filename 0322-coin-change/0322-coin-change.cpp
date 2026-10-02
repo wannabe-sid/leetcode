@@ -23,33 +23,49 @@
 // };
 
 // Recursion -> Tabulation (Bottom Up)
-// O() time and O() space and O() stack space
+// O(n*amount) time and O(n*amount) space and O(1) stack space
+// class Solution {
+// public:
+//     int coinChange(vector<int>& coins, int amount) {
+//         int n = coins.size();
+//         vector<vector<int>> dp(n, vector<int>(amount+1, 0));
+//         for(int i=0; i<=amount; i++){
+//             if(i % coins[0] == 0) dp[0][i] = i / coins[0];
+//             else dp[0][i] = 1e9;
+//         }
+//         for(int i=1; i<n; i++){
+//             for(int j=0; j<=amount; j++){
+//                 int notTake = 0 + dp[i-1][j];
+//                 int take = 1e9;
+//                 if(j >= coins[i]) take = 1 + dp[i][j-coins[i]];
+//                 dp[i][j] = min(take, notTake); 
+//             }
+//         }
+//         return (dp[n-1][amount] == 1e9) ? -1 : dp[n-1][amount];
+//     }
+// };
+
+// Recursion -> Space Optimization 
+// O(n*amount) time and O(2*amount) space and O(1) stack space
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1, 0));
+        vector<int> prev(amount+1, 0);
+        vector<int> curr(amount+1, 0);
         for(int i=0; i<=amount; i++){
-            if(i % coins[0] == 0) dp[0][i] = i / coins[0];
-            else dp[0][i] = 1e9;
+            if(i % coins[0] == 0) prev[i] = i / coins[0];
+            else prev[i] = 1e9;
         }
         for(int i=1; i<n; i++){
             for(int j=0; j<=amount; j++){
-                int notTake = 0 + dp[i-1][j];
+                int notTake = 0 + prev[j];
                 int take = 1e9;
-                if(j >= coins[i]) take = 1 + dp[i][j-coins[i]];
-                dp[i][j] = min(take, notTake); 
+                if(j >= coins[i]) take = 1 + curr[j-coins[i]];
+                curr[j] = min(take, notTake); 
             }
+            prev = curr;
         }
-        return (dp[n-1][amount] == 1e9) ? -1 : dp[n-1][amount];
+        return (prev[amount] == 1e9) ? -1 : prev[amount];
     }
 };
-
-// Recursion -> Space Optimization 
-// O() time and O() space and O() stack space
-// class Solution {
-// public:
-//     int coinChange(vector<int>& coins, int amount) {
-        
-//     }
-// };
