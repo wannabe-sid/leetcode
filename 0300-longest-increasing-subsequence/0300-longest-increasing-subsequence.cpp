@@ -40,7 +40,7 @@
 // };
 
 // Recursion -> Space Optimization
-// O() time and O() space and O() stack space
+// O(n^2) time and O(n) space and O(1) stack space
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
