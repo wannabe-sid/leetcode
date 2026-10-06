@@ -64,20 +64,41 @@
 
 // Optimal Solution
 // O(n^2) time and O(n) space and O(1) stack space
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n, 1);
+//         int lis = 1;
+//         for(int idx=0; idx<n; idx++){
+//             for(int prevIdx=0; prevIdx<idx; prevIdx++){
+//                 if(nums[idx] > nums[prevIdx]){
+//                     dp[idx] = max(dp[idx], 1+dp[prevIdx]);
+//                 }
+//             }
+//             lis = max(lis, dp[idx]);
+//         }
+//         return lis;
+//     }
+// };
+
+// Using Binary Search
+// O(nlogn) time and O(n) space and O(1) stack space
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, 1);
-        int lis = 1;
-        for(int idx=0; idx<n; idx++){
-            for(int prevIdx=0; prevIdx<idx; prevIdx++){
-                if(nums[idx] > nums[prevIdx]){
-                    dp[idx] = max(dp[idx], 1+dp[prevIdx]);
-                }
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        for(int i=1; i<n; i++){
+            if(nums[i] > temp.back()){
+                temp.push_back(nums[i]);
             }
-            lis = max(lis, dp[idx]);
+            else{
+                int idx = lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
+                temp[idx] = nums[i];
+            }
         }
-        return lis;
+        return temp.size();
     }
 };
