@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/wannabe-sid/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/wannabe-sid/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wannabe-sid/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wannabe-sid/leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/wannabe-sid/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1631-path-with-minimum-effort](https://github.com/wannabe-sid/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quicksort
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/wannabe-sid/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/wannabe-sid/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/wannabe-sid/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wannabe-sid/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wannabe-sid/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wannabe-sid/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -646,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/wannabe-sid/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/wannabe-sid/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
