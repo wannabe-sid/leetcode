@@ -27,37 +27,58 @@
 
 // Recursion -> Tabulation (Bottom Up)
 // O(n*2*k) time and O(n*2*k) space and O(1) stack space
+// class Solution {
+// public:
+//     int maxProfit(int k, vector<int>& prices) {
+//         int n = prices.size();
+//         // dp[index][buy or not][number of transactions]
+//         vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(k+1, 0)));
+//         for(int idx=n-1; idx>=0; idx--){
+//             for(int buy=1; buy>=0; buy--){
+//                 for(int cap=k; cap>=1; cap--){
+//                     int profit = 0;
+//                     if(buy == 1){
+//                         profit = max((-prices[idx] + dp[idx+1][0][cap]), // Buy
+//                                     (0 + dp[idx+1][1][cap]));            // Not Buy
+//                     }
+//                     else{
+//                         profit = max((prices[idx] + dp[idx+1][1][cap-1]), // Sell
+//                                     (0 + dp[idx+1][0][cap]));             // Not Sell
+//                     }
+//                     dp[idx][buy][cap] = profit;
+//                 }
+//             }
+//         }
+//         return dp[0][1][k];
+//     }
+// };
+
+// Recursion -> Space Optimization
+// O(n*2*k) time and O(1) space and O(1) stack space
 class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
         // dp[index][buy or not][number of transactions]
-        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(k+1, 0)));
+        vector<vector<int>> next(2, vector<int>(k+1, 0));
+        vector<vector<int>> curr(2, vector<int>(k+1, 0));
         for(int idx=n-1; idx>=0; idx--){
             for(int buy=1; buy>=0; buy--){
                 for(int cap=k; cap>=1; cap--){
                     int profit = 0;
                     if(buy == 1){
-                        profit = max((-prices[idx] + dp[idx+1][0][cap]), // Buy
-                                    (0 + dp[idx+1][1][cap]));            // Not Buy
+                        profit = max((-prices[idx] + next[0][cap]), // Buy
+                                    (0 + next[1][cap]));            // Not Buy
                     }
                     else{
-                        profit = max((prices[idx] + dp[idx+1][1][cap-1]), // Sell
-                                    (0 + dp[idx+1][0][cap]));             // Not Sell
+                        profit = max((prices[idx] + next[1][cap-1]), // Sell
+                                    (0 + next[0][cap]));             // Not Sell
                     }
-                    dp[idx][buy][cap] = profit;
+                    curr[buy][cap] = profit;
                 }
             }
+            next = curr;
         }
-        return dp[0][1][k];
+        return next[1][k];
     }
 };
-
-// Recursion -> Space Optimization
-// O(n*2*k) time and O(1) space and O(1) stack space
-// class Solution {
-// public:
-//     int maxProfit(int k, vector<int>& prices) {
-        
-//     }
-// };
