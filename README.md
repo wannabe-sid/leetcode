@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/wannabe-sid/leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/wannabe-sid/leetcode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/wannabe-sid/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/wannabe-sid/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/wannabe-sid/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/wannabe-sid/leetcode/tree/master/0063-unique-paths-ii) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/wannabe-sid/leetcode/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/wannabe-sid/leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/wannabe-sid/leetcode/tree/master/0494-target-sum) |
@@ -674,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/wannabe-sid/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
