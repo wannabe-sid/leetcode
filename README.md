@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wannabe-sid/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/wannabe-sid/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/wannabe-sid/leetcode/tree/master/0127-word-ladder) |
+| [0219-contains-duplicate-ii](https://github.com/wannabe-sid/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/wannabe-sid/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/wannabe-sid/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wannabe-sid/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/wannabe-sid/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wannabe-sid/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/wannabe-sid/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/wannabe-sid/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wannabe-sid/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/wannabe-sid/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wannabe-sid/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wannabe-sid/leetcode/tree/master/0322-coin-change) |
