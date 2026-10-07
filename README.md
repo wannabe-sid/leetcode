@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/wannabe-sid/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/wannabe-sid/leetcode/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/wannabe-sid/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/wannabe-sid/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/wannabe-sid/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/wannabe-sid/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/wannabe-sid/leetcode/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/wannabe-sid/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/wannabe-sid/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/wannabe-sid/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wannabe-sid/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/wannabe-sid/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wannabe-sid/leetcode/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/wannabe-sid/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/wannabe-sid/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/wannabe-sid/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/wannabe-sid/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/wannabe-sid/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wannabe-sid/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/wannabe-sid/leetcode/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/wannabe-sid/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/wannabe-sid/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/wannabe-sid/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0786-k-th-smallest-prime-fraction](https://github.com/wannabe-sid/leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/wannabe-sid/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/wannabe-sid/leetcode/tree/master/0948-bag-of-tokens) |
+| [1048-longest-string-chain](https://github.com/wannabe-sid/leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/wannabe-sid/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/wannabe-sid/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/wannabe-sid/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/wannabe-sid/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/wannabe-sid/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/wannabe-sid/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/wannabe-sid/leetcode/tree/master/1143-longest-common-subsequence) |
