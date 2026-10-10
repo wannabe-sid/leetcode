@@ -30,7 +30,7 @@ class Solution {
 public:
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
         int n = arr.size();
-        vector<int> dp(n+1, -1);
+        vector<int> dp(n+1, 0);
         for(int i=n-1; i>=0; i--){
             int length = 0;
             int maxNum = -1e9;
@@ -43,6 +43,6 @@ public:
             }
             dp[i] = maxSum;
         }
-        return dp[0] + 1;
+        return dp[0];
     }
 };
